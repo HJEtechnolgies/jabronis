@@ -65,4 +65,4 @@ jobs:
         with:
           app-name: 'Scan-2-Invest-Api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF762B18500541D68F91B4CE49E963E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C35F8DE430C4DC2844D12692908BFC8 }}
